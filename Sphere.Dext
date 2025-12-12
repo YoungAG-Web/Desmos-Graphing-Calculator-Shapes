@@ -1,0 +1,7 @@
+A: 16=3y^{2}+x^{2}\left\{y\ge0\right\}
+B: y=-x\left\{0\le x\le2\right\}
+C: y=-x+1\left\{0\le x\le\frac{1}{2}\right\}
+D: x=0\left\{0\le y\le4\right\}
+E: x=\frac{1}{2}\left\{-\frac{1}{2}\le y\le\frac{1}{2}\right\}
+F: 16=y^{2}+x^{2}
+G: 16=3y^{2}+x^{2}\left\{y\le0\right\}
